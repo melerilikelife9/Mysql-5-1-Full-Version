@@ -239,4 +239,4 @@ This repository serves as the official landing page for MySQL 5.1. The software 
 **Get the most recent version of MySQL 5.1 today!**
 
 ---
-**Last updated:** 2026-09-30 23:20:12 UTC
+**Last updated:** 2026-10-01 03:13:18 UTC
